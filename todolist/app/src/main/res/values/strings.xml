@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="escribe_tarea">que tienes que hacer?</string>
+
+    <string name="email">E-mail</string>
+    <string name="contraseña">passwoord</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="no_cuenta">No tiene una cuenta !!</string>
+    <string name="registro">Registros</string>
+    <string name="recordar_contraseña">Recordar Contraseña</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="tienes_cuenta">Ya tiene Cuenta Creada</string>
+    <string name="contrasena">Password</string>
+    <string name="nombres">Nombre</string>
+
+</resources>
